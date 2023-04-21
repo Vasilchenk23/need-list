@@ -1,0 +1,27 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%,
+    rgba(0,212,255,1) 100%);
+}
+
+h1 {
+    text-align: center;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 5px 0px 0px 630px;
+    color: white;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
+ input{
+  margin: 0px 0px 0px 630px;
+ }
+ 
